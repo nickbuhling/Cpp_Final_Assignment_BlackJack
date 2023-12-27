@@ -239,7 +239,7 @@ public:
         }
     }
 
-    // TODO: if more than x cards, print in two rows (TEST NEW BRANCH)
+    // TODO: if more than x cards, print in two rows
     void printHorizontal() {
         // Printing the top borders
         for (Card cardToPrint: cardsInHand) {
