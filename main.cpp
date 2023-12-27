@@ -22,6 +22,8 @@ using std::to_string;
 using std::setw;
 using std::stoi;
 
+// This is a test message to check GitHub sharing
+
 class Card {
 public:
     // Default constructor: defines the card with random values if no values are provided
